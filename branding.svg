@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Dictator Era">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#213b4c"/><stop offset="1" stop-color="#07131e"/></linearGradient><linearGradient id="gold" x2=".8" y2="1"><stop stop-color="#f0d8a3"/><stop offset="1" stop-color="#a98548"/></linearGradient></defs>
+<rect width="512" height="512" rx="100" fill="url(#bg)"/>
+<circle cx="256" cy="256" r="195" fill="none" stroke="#d5b375" stroke-width="4"/>
+<circle cx="256" cy="256" r="180" fill="none" stroke="#829797" stroke-width="1" opacity=".55"/>
+<path d="M154 124h91c93 0 145 55 145 131 0 78-52 133-145 133h-91V124zm57 48v168h31c60 0 91-31 91-85 0-52-31-83-91-83h-31z" fill="url(#gold)" fill-rule="evenodd"/>
+<path d="M258 262h117v25h-84v26h73v24h-73v27h84v25H258z" fill="#f3e2bd" stroke="#102533" stroke-width="7" paint-order="stroke"/>
+<path d="M235 70h42l-21-24zM235 442h42l-21 24z" fill="#d5b375"/>
+</svg>

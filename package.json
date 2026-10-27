@@ -1,0 +1,21 @@
+{
+  "name": "dictator-era",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "country-flag-icons": "^1.6.20",
+    "d3-geo": "^3.1.1",
+    "lucide-static": "^1.62.0",
+    "playwright": "^1.64.1",
+    "sharp": "^0.35.5",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  }
+}

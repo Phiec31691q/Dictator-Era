@@ -1,0 +1,5 @@
+node_modules/
+android/build/
+android/keys/
+release/
+assets/*.geojson
